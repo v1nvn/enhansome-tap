@@ -51,9 +51,9 @@ Things that produce TAP output.
 
 ### JavaScript
 
-* [AVA](https://github.com/sindresorhus/ava) ⭐ 20,861 | 🐛 63 | 🌐 JavaScript | 📅 2025-11-05 - Futuristic test runner (`$ ava --tap`).
-* [tape](https://github.com/substack/tape) ⭐ 5,803 | 🐛 41 | 🌐 JavaScript | 📅 2025-03-07 - TAP-producing test harness for Node.js and browsers.
-* [tap](https://github.com/isaacs/node-tap) ⭐ 2,408 | 🐛 15 | 🌐 JavaScript | 📅 2026-02-10 - TAP test framework for Node.js.
+* [AVA](https://github.com/sindresorhus/ava) ⭐ 20,858 | 🐛 63 | 🌐 JavaScript | 📅 2025-11-05 - Futuristic test runner (`$ ava --tap`).
+* [tape](https://github.com/substack/tape) ⭐ 5,800 | 🐛 41 | 🌐 JavaScript | 📅 2025-03-07 - TAP-producing test harness for Node.js and browsers.
+* [tap](https://github.com/isaacs/node-tap) ⭐ 2,409 | 🐛 15 | 🌐 JavaScript | 📅 2026-02-10 - TAP test framework for Node.js.
 * [zora](https://github.com/lorenzofox3/zora) ⭐ 543 | 🐛 3 | 🌐 JavaScript | 📅 2024-10-27 - TAP-producing test runner that works with ES2015 without Babel.
 * [jasmine-reporters](https://github.com/larrymyers/jasmine-reporters) ⭐ 397 | 🐛 23 | 🌐 JavaScript | 📅 2024-09-20 - TAP output for Jasmine.
 * [mos](https://github.com/zkochan/mos) ⚠️ Archived - Markdown file generator and tester (`$ mos test --tap`).
