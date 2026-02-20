@@ -52,7 +52,7 @@ Things that produce TAP output.
 ### JavaScript
 
 * [AVA](https://github.com/sindresorhus/ava) ⭐ 20,858 | 🐛 63 | 🌐 JavaScript | 📅 2025-11-05 - Futuristic test runner (`$ ava --tap`).
-* [tape](https://github.com/substack/tape) ⭐ 5,800 | 🐛 41 | 🌐 JavaScript | 📅 2025-03-07 - TAP-producing test harness for Node.js and browsers.
+* [tape](https://github.com/substack/tape) ⭐ 5,801 | 🐛 41 | 🌐 JavaScript | 📅 2025-03-07 - TAP-producing test harness for Node.js and browsers.
 * [tap](https://github.com/isaacs/node-tap) ⭐ 2,408 | 🐛 16 | 🌐 JavaScript | 📅 2026-02-18 - TAP test framework for Node.js.
 * [zora](https://github.com/lorenzofox3/zora) ⭐ 543 | 🐛 3 | 🌐 JavaScript | 📅 2024-10-27 - TAP-producing test runner that works with ES2015 without Babel.
 * [jasmine-reporters](https://github.com/larrymyers/jasmine-reporters) ⭐ 397 | 🐛 23 | 🌐 JavaScript | 📅 2024-09-20 - TAP output for Jasmine.
@@ -74,7 +74,7 @@ Things that produce TAP output.
 ### Bash
 
 * [bats](https://github.com/sstephenson/bats) ⚠️ Archived - Bash Automated Testing System.
-* [ShellSpec](https://github.com/shellspec/shellspec) ⭐ 1,347 | 🐛 105 | 🌐 Shell | 📅 2025-11-24 - A full-featured BDD unit testing framework for POSIX shells.
+* [ShellSpec](https://github.com/shellspec/shellspec) ⭐ 1,348 | 🐛 105 | 🌐 Shell | 📅 2025-11-24 - A full-featured BDD unit testing framework for POSIX shells.
 
 [More…](https://testanything.org/producers.html)
 
